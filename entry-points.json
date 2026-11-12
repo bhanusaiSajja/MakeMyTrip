@@ -1,0 +1,15 @@
+{
+  "$schema": "https://cloud.uipath.com/draft/2024-12/entry-point",
+  "entryPoints": [
+    {
+      "filePath": "Highlight_WFType_Items.xaml",
+      "uniqueId": "bc99b8ab-b75b-4b74-a5d0-5d869fba7f5e",
+      "type": "process"
+    },
+    {
+      "filePath": "MakeMyTrip.xaml",
+      "uniqueId": "1b2115eb-e1a5-44f5-bf3f-f6f79d41655b",
+      "type": "process"
+    }
+  ]
+}
